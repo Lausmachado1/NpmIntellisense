@@ -18,13 +18,7 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-    "onLanguage:typescript",
-    "onLanguage:javascript",
-    "onLanguage:javascriptreact",
-    "onLanguage:typescriptreact",
-    "onCommand:npm-intellisense.import"
-  ],
+  // ...existing code...
   "capabilities": {
     "untrustedWorkspaces": {
       "supported": true
