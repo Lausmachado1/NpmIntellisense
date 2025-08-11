@@ -18,7 +18,6 @@
   "categories": [
     "Other"
   ],
-  // ...existing code...
   "capabilities": {
     "untrustedWorkspaces": {
       "supported": true
